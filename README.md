@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @egonptk
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on java script, html, css
+-
 - 📫 How to reach me ... 55+(42) 99944-7996
 - 😄 Pronouns: Nunes
 - ⚡ Fun fact: ...
